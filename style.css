@@ -11,23 +11,23 @@ body {
   text-align: center;
 }
   
-body.index.html {
+body.index {
   background-image: url("images/accueil.jpg");
 }
 
-body.histoire.html {
+body.histoire {
   background-image: url("images/histoire.jpg");
 }
 
-body.rsvp.html {
+body.rsvp {
   background-image: url("images/rsvp.jpg");
 }
 
-body.auberge.html {
+body.auberge {
   background-image: url("images/auberge.jpg");
 }
 
-body.photos.html {
+body.photos {
   background-image: url("images/photos.jpg");
 }
 
