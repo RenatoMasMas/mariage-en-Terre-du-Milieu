@@ -10,6 +10,26 @@ body {
   font-family: serif;
   text-align: center;
 }
+  
+body.accueil {
+  background-image: url("images/accueil.jpg");
+}
+
+body.histoire {
+  background-image: url("images/histoire.jpg");
+}
+
+body.rsvp {
+  background-image: url("images/rsvp.jpg");
+}
+
+body.auberge {
+  background-image: url("images/auberge.jpg");
+}
+
+body.photos {
+  background-image: url("images/photos.jpg");
+}
 
 h1 {
   margin-bottom: 20px;
@@ -47,24 +67,4 @@ nav a {
 
 nav a:hover {
   text-decoration: underline;
-}
-
-body.accueil {
-  background-image: url("images/accueil.jpg");
-}
-
-body.histoire {
-  background-image: url("images/histoire.jpg");
-}
-
-body.rsvp {
-  background-image: url("images/rsvp.jpg");
-}
-
-body.auberge {
-  background-image: url("images/auberge.jpg");
-}
-
-body.photos {
-  background-image: url("images/photos.jpg");
 }
