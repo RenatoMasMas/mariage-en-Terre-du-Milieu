@@ -29,3 +29,18 @@ p {
 .button:hover {
   background-color: #e0bb5a;
 }
+
+nav {
+  margin-bottom: 30px;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #c9a24a;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
