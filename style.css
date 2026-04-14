@@ -2,6 +2,10 @@ body {
   margin: 0;
   padding: 50px;
   background-color: #1b2f1b;
+  background-image: url("images/fond.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   color: #f5f0e1;
   font-family: serif;
   text-align: center;
