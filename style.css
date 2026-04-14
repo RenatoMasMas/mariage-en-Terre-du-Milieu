@@ -1,5 +1,4 @@
-body::before {
-  content: "";
+body {
   position: fixed;
   top: 0;
   left: 0;
